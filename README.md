@@ -33,7 +33,7 @@ user3.place(x=570, y=360)
 def second():
     global secondw
     secondw = Tk()
-    secondw.title("KANHA KIDS PLAY SCHOOL")
+    secondw.title("Coding PLAY SCHOOL")
     secondw.geometry("1600x1000+0+0")
 
     def distroy4():
